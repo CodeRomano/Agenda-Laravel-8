@@ -1,5 +1,5 @@
 # Agenda Laravel 8
-Una aplicacion para agendar tareas y eventos
+Una aplicación para agendar tareas y eventos
  
 - Laravel 8
 - MySQL  
