@@ -1,6 +1,8 @@
 # Agenda Laravel 8
 Una aplicación para agendar tareas y eventos
  
+<img src="/public/img/login.png" alt="Login App"/> 
+ 
 - Laravel 8
 - MySQL  
 - <a href="https://fullcalendar.io/" target="_blank">Plugin JQuery FullCalendar</a>
