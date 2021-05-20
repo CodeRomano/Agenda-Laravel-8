@@ -2,6 +2,7 @@
 Una aplicación para agendar tareas y eventos
  
 <img src="/public/img/login.png" alt="Login App" width="600"/> 
+<img src="/public/img/calendar.png" alt="Calendar App" width="600"/> 
  
 - Laravel 8
 - MySQL  
