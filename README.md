@@ -1,7 +1,7 @@
 # Agenda Laravel 8
 Una aplicación para agendar tareas y eventos
  
-<img src="/public/img/login.png" alt="Login App" style="width: 300px"/> 
+<img src="/public/img/login.png" alt="Login App" width="400"/> 
  
 - Laravel 8
 - MySQL  
